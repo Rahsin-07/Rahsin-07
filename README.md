@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nishar Ahammed ibrahim
-- 👀 I’m interested in Python ,HTML,CSS,JAVASCRIPT,PYTHON
-- 🌱 I’m currently Completed MSC IT (2024)
+- 👀 I’m Have much knowledge in HTML,CSS,JAVASCRIPT,PYTHON,React,Sql
+- 🌱 Completed MSC IT (2024)
+- 🌱 Currently in an React Js Internship (6 months)
 - 💞️ I’m looking to collaborate on Software company
 - 📫 How to reach me contact 9342269664
 - 😄 Pronouns: ...
