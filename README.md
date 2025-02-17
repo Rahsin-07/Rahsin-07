@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishar Ahammed ibrahim
-- 👀 I’m Have much knowledge in HTML,CSS,JAVASCRIPT,PYTHON,React,Sql
+- 👀 I Have much knowledge in HTML,CSS,JAVASCRIPT,PYTHON,React,Sql
 - 🌱 Completed MSC IT (2024)
 - 🌱 Currently in an React Js Internship (6 months)
 - 💞️ I’m looking to collaborate on Software company
